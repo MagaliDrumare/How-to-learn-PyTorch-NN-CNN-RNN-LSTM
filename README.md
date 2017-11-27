@@ -3,7 +3,7 @@
 * Lecture 8 'Deep Learning Software' : http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
 
 # Start learning PyTorch
-* Practical Deep Learning with PyTorch Udemy by NUS : https://www.udemy.com/practical-deep-learning-with-pytorch/learn/v4/overview 
+* Practical Deep Learning with PyTorch Udemy by NUS : https://www.udemy.com/practical-deep-learning-with-pytorch/learn/v4/overview  
 * « PyTorch: Fast Differentiable Dynamic Graphs in Python" by Soumith Chintala: https://youtu.be/DBVLcgq2Eg0
 * Welcome to PyTorch Tutorials : http://pytorch.org/tutorials/#
 * PyTorch GitHub : https://github.com/pytorch/pytorch
