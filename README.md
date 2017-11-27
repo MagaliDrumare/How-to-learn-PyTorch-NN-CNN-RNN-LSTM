@@ -11,6 +11,11 @@
 * https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c
 
 # Projects on my GitHub : 
+https://github.com/MagaliDrumare/How-to-build-a-PyTorch-movies-recommender-with-AutoEncoder-AE-
+https://github.com/MagaliDrumare/How-to-build-a-PyTorch-movies-recommender-with-Restricted-Boltzmann-Machine-RBM
+https://github.com/MagaliDrumare/How-to-make-object-recognition-in-a-video-with-PyTorch-SSD
+https://github.com/MagaliDrumare/How-to-create-a-self-driving-car-with-PyTorch-DQL-
+
 
 
 
