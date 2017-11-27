@@ -1,5 +1,6 @@
 # What is PyTorch ? 
 * PyTorch in 5 Minutes by Siraj Raval : https://youtu.be/nbJ-2G2GXL0
+* Lecture 8 'Deep Learning Software' : http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
 
 # Start learning PyTorch
 * Practical Deep Learning with PyTorch Udemy by NUS : https://www.udemy.com/practical-deep-learning-with-pytorch/learn/v4/overview 
